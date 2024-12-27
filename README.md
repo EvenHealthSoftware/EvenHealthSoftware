@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **building Even Health, a health tech company that empowers users through AI-driven solutions to improve their well-being.**  
+- 🌱 I’m currently learning **advanced Flutterflow techniques, AI integration for mobile apps, and the intricacies of UK health tech regulations.**  
+- 👯 I’m looking to collaborate on **projects that combine AI and mobile apps to create meaningful user experiences, especially in healthcare.**  
+- 🤔 I’m looking for help with **scaling Even Health's app development and refining our product-market fit.**  
+- 💬 Ask me about **starting a health tech company, AI in healthcare, or tips for organizing your workday effectively.**  
+- 📫 How to reach me: **[evenhealthsoftware@gmail.com] or find me on LinkedIn [https://www.linkedin.com/company/even-health-app/].**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: **I’m a former McKinsey consultant with a passion for healthy living and exploring new cultures—I’m moving to the UK soon to embrace a new adventure!**
+
 <!--
 **EvenHealthSoftware/EvenHealthSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
